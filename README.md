@@ -1,2 +1,2 @@
 # Bakery
- Bakery Inventory System
+ This is the Bakery Inventory System
